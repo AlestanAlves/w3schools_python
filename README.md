@@ -1,2 +1,2 @@
-# w3schools_python
-Full course python w3schools 👽
+# w3schools
+Full course python 👽
