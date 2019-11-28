@@ -7,18 +7,18 @@ Full course python 👽
 - [x] Data types
 - [x] Numbers
 - [x] Casting
-- [ ] Strings
-- [ ] Booleans
-- [ ] Operators
-- [ ] Lists
-- [ ] Tuples
-- [ ] Sets
-- [ ] Dictionaries
-- [ ] if...else
-- [ ] While Loops
-- [ ] For Loops
-- [ ] Functions
-- [ ] Lambda
+- [x] Strings
+- [x] Booleans
+- [x] Operators
+- [x] Lists
+- [x] Tuples
+- [x] Sets
+- [x] Dictionaries
+- [x] if...else
+- [x] While Loops
+- [x] For Loops
+- [x] Functions
+- [x] Lambda
 - [ ] Arrays
 - [ ] Classes/Objects
 - [ ] Inheritance
